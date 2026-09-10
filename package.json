@@ -1,0 +1,12 @@
+{
+  "name": "minh-hieu-bypass",
+  "version": "1.0.0",
+  "description": "Minh Hieu Bypass Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
